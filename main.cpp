@@ -194,7 +194,7 @@ public:
     MBitSet spin(num_site);
     std::fill(best_spins.begin(), best_spins.end(), spin);
   }
-}ShareData;
+}SharedData;
 
 double calc_beta(size_t step, size_t total_step, double beta_0=4.0)
 {
