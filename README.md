@@ -13,13 +13,13 @@ __ 2016.
 Please compile the flies with make command (OpenMP is needed).
 Please run with these options:
 
-	./main.out <input graph> <num threads> <sync step> <target energy>
+	./main.out <input graph> <num threads> <sync steps> [<target energy>]
 
 In the paper, we ran
 
 	./main.out ./WK2000_1.rud 1 1000000 -60278
 
-where `WK2000_1.rud` is the complete graph with edge weight {+1,-1} (uniform distribution) used in the benchmark.
+where `WK2000_1.rud` is the complete graph with edge weight {+1,-1} (uniform distribution) used in the benchmark. Here, the `<sync steps>` is set to be an arbitrary large value to disable multithreading.
 
 Input file format is the weighted edge list:
 
