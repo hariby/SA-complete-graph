@@ -5,7 +5,7 @@ Simulated Annealing for complete graphs
 This code implements Simulated Annealing for MAX-CUT problems on {+1,-1}-weighted complete graphs, 
 which is used in the benchmark study in the paper:
 
-[[http://science.sciencemag.org/content/early/2016/10/19/science.aah4243]](__A coherent Ising machine for 2000-node optimization problems__),  
+[__A coherent Ising machine for 2000-node optimization problems__](http://science.sciencemag.org/content/early/2016/10/19/science.aah4243),  
 Takahiro Inagaki, Yoshitaka Haribara, Koji Igarashi, Tomohiro Sonobe, Shuhei Tamate, Toshimori Honjo, Alireza Marandi, Peter L. McMahon, Takeshi Umeki, Koji Enbutsu, Osamu Tadanaga, Hirokazu Takenouchi, Kazuyuki Aihara, Ken-ichi Kawarabayashi, Kyo Inoue, Shoko Utsunomiya, and Hiroki Takesue,  
 _Science_ 2016.
 
