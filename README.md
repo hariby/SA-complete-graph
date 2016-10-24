@@ -5,9 +5,9 @@ Simulated Annealing for complete graphs
 This code implements Simulated Annealing for MAX-CUT problems on {+1,-1}-weighted complete graphs, 
 which is used in the benchmark study in the paper:
 
-__A coherent Ising machine for 2000-node optimization problems__,  
+[[http://science.sciencemag.org/content/early/2016/10/19/science.aah4243]](__A coherent Ising machine for 2000-node optimization problems__),  
 Takahiro Inagaki, Yoshitaka Haribara, Koji Igarashi, Tomohiro Sonobe, Shuhei Tamate, Toshimori Honjo, Alireza Marandi, Peter L. McMahon, Takeshi Umeki, Koji Enbutsu, Osamu Tadanaga, Hirokazu Takenouchi, Kazuyuki Aihara, Ken-ichi Kawarabayashi, Kyo Inoue, Shoko Utsunomiya, and Hiroki Takesue,  
-__ 2016.
+_Science_ 2016.
 
 ## Usage
 Please compile the flies with make command (OpenMP is needed).
