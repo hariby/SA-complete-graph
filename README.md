@@ -63,12 +63,12 @@ SOFTWARE.
 
 ## Authors
  - S. Tamate  
-  - National Institute of Informatics, Hitotsubashi 2-1-2, Chiyoda-ku, Tokyo 101-8403, Japan
+ 	- National Institute of Informatics, Hitotsubashi 2-1-2, Chiyoda-ku, Tokyo 101-8403, Japan
 
  - T. Sonobe  
-  - National Institute of Informatics, Hitotsubashi 2-1-2, Chiyoda-ku, Tokyo 101-8403, Japan  
-  - ERATO Kawarabayashi Large Graph Project, Japan Science and Technology Agency, Hitotsubashi 2-1-2, Chiyoda-ku, Tokyo 101-8403, Japan
+ 	- National Institute of Informatics, Hitotsubashi 2-1-2, Chiyoda-ku, Tokyo 101-8403, Japan  
+ 	- ERATO Kawarabayashi Large Graph Project, Japan Science and Technology Agency, Hitotsubashi 2-1-2, Chiyoda-ku, Tokyo 101-8403, Japan
 
  - Y. Haribara ([haribara@sat.t.u-tokyo.ac.jp](mailto:haribara@sat.t.u-tokyo.ac.jp))  
-  - Department of Mathematical Informatics, The University of Tokyo, Hongo 7-3-1, Bunkyo-ku, Tokyo 113-8656, Japan  
-  - Institute of Industrial Science, The University of Tokyo, Komaba 4-6-1, Meguro-ku, Tokyo 153-8505, Japan
+ 	- Department of Mathematical Informatics, The University of Tokyo, Hongo 7-3-1, Bunkyo-ku, Tokyo 113-8656, Japan  
+ 	- Institute of Industrial Science, The University of Tokyo, Komaba 4-6-1, Meguro-ku, Tokyo 153-8505, Japan
