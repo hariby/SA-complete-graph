@@ -19,7 +19,7 @@ In the paper, we ran
 
 	./main.out ./WK2000_1.rud 1 1000000 -60278
 
-where `WK2000_1.rud` is the complete graph with edge weight {+1,-1} (uniform distribution) used in the benchmark. Here, the `<sync steps>` is set to be an arbitrary large value to disable multithreading.
+where `WK2000_1.rud` ([generated with this code](https://github.com/hariby/graphgen)) is the complete graph with edge weight {+1,-1} (uniform distribution) used in the benchmark. Here, the `<sync steps>` is set to be an arbitrary large value to disable multithreading.
 
 Input file format is the weighted edge list:
 
